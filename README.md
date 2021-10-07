@@ -1,13 +1,11 @@
-# React Hooks Tutorial
+# React Hooks 
 
-In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
+React Crud Basico para usuarios
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+###
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+FranciscoRS :  ("https://francisrsweb.netlify.app/")
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
